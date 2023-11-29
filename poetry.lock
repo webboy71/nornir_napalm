@@ -918,7 +918,7 @@ files = [
 [package.dependencies]
 jinja2 = ">=2.7.1"
 lxml = ">=3.2.4"
-ncclient = "0.6.13"
+ncclient = "0.6.15"
 netaddr = "*"
 paramiko = ">=1.15.2"
 pyparsing = "*"
